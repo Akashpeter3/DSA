@@ -2,6 +2,7 @@ package dsa_second_learning.linkedList;
 
 public class Main {
     public static void main(String[] args) {
+        //wow this is amazinggggggggggggg
          LinkedList linkedList = new LinkedList(5);
 
 //        linkedList.getHead();
@@ -29,6 +30,7 @@ public class Main {
         System.out.println("After removing... ");
         linkedList.remove(4);
         linkedList.printList();
+
 
 //        System.out.println("After removing first number from linked list value "+linkedList.removeFirst().value);
 //        System.out.println("After removing first number from linked list value "+linkedList.removeFirst().value);
